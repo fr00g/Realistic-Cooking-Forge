@@ -774,9 +774,9 @@
   },
   "metadata": {
     "files": [
+      "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModMenus.java",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModScreens.java",
       "src/main/java/net/mcreator/realisticcooking/network/MenuStateUpdateMessage.java",
-      "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModMenus.java",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModBlocks.java",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModBlockEntities.java",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModItems.java",
